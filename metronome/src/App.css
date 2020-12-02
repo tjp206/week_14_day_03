@@ -1,0 +1,27 @@
+.App {
+  color: whitesmoke;
+  text-align: center;
+}
+
+body {
+  background: url("./images/music.jpg");
+  background-size: cover;
+  /* background-position:top; */
+}
+
+input {
+  /* margin-top: 250px; */
+  margin-top: 450px;
+}
+
+input:hover {
+  transform: scale(1.5);
+}
+
+button {
+  background-color: black;
+  color: whitesmoke;
+  font-size: 14px;
+  border: 2px solid whitesmoke;
+  border-radius: 6px;
+}
