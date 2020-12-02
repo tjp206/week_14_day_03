@@ -8,6 +8,4 @@ const MetronomeContainer = () => {
     )
 }
 
-
-
 export default MetronomeContainer;
